@@ -1,0 +1,40 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "0101010101",
+      "id": "1"
+    },
+    {
+      "name": "Jaska Jokunen",
+      "number": "12344",
+      "id": "VWfAXg_5zww"
+    },
+    {
+      "name": "Mikko Mallikas",
+      "number": "458492923",
+      "id": "PhQm8HHb-rQ"
+    },
+    {
+      "name": "Hilda Hulvaton",
+      "number": "098765",
+      "id": "3XFlWbrC9hs"
+    },
+    {
+      "name": "Jarmo Jargon",
+      "number": "2937",
+      "id": "J04C_C-s4NE"
+    },
+    {
+      "name": "mikon mallikkaampi veli",
+      "number": "123456789",
+      "id": "QG774svciXg"
+    },
+    {
+      "name": "mikon mallikas veli",
+      "number": "87654321",
+      "id": "rz80-WIE3AQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
